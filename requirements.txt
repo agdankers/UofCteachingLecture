@@ -1,4 +1,3 @@
 numpy
 control
 matplotlib
-math
